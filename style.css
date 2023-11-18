@@ -1,0 +1,39 @@
+.fundo{
+    color: white;
+    height: 100px;
+    font-size: 70px;
+}
+
+.fundofutebol{
+    background-color: #3b5a67;
+}
+
+.fundop{
+    color: white;
+}
+
+.fundobasq{
+    background-image: url(https://media.istockphoto.com/id/1135765342/pt/foto/black-or-grey-marble-stone-background-dark-grey-marble-quartz-texture-backdrop-wall-and-panel.jpg?s=170667a&w=0&k=20&c=Gbii1BPfXSUObwnd3E-MezdWvnELYjuE6MuWBbkE5Uw=);
+    font-size: 30px;
+    color: white;
+}
+
+.fundovolei{
+    background-color: rgba(0, 0, 0, 0.423)
+}
+
+img:hover{
+   transform: scale(1.04);
+   transition:0.5s ease-in-out ;
+}
+
+img{
+    border-radius: 20px;
+}
+
+.img2{
+    position: absolute;
+    left: 300px;
+    top: 1100px;
+}
+
